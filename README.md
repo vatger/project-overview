@@ -24,13 +24,14 @@ tbd.
 
 | Projects     | Status   | Person responsible  | required Skills   |
 |--------------|----------|---------------------|-------------------|
-| Tourensystem | planning | Julian S., Fionn S. | Typescript, React |
+| Tourensystem | PL | Julian S., Fionn S. | Typescript, React |
 
 
 ### Status codes:
 ```
 OB - Open Beta
 CD - Concept Development
+PL - Planning
 ```
 
 ## Description of Projects
