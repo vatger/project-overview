@@ -1,90 +1,73 @@
-# Projects Overview (TBD!)
+<!-- START LINKS (these can be referenced in the document) -->
+
+[VSID]: https://git.vatsim-germany.org/vatger-projects/vsid
+[VACDM]: https://github.com/vACDM
+[VTFDPS]: https://github.com/orgs/vtfdps/
+
+<!-- END LINKS -->
+
+# Projects Overview (WIP)
 
 Clicking on the project name will guide you to the repository of the project.
 
-### VATGER Projects
+**Looking for Developers:** <br/>
+Whilst we are always looking for developers and are very happy with contributions to our open-source projects, we have 
+decided to categorize these projects according to their current need of new developers. 
 
-tbd.
+Projects marked with ✅ indicate 
+that the team working on this is actively looking for new developers that are willing to join the core development team. 
 
-### ATD Projects
+Projects marked with ❌ indicate that the team isn't actively looking for new members, however are grateful for any open-source
+contributions that are made. Please note that this icon doesn't mean that there is no work to be done. Open-source commits are
+as stated previously, always welcome!
 
-| Projects              | Status    | Person responsible  | required Skills |
-|-----------------------|-----------|---------------------|-----------------|
-| ScenarioFileGenerator | see below | Leon K. / Julian S. | see below       |
-| EndorsementChecker    | see below | Leon K.             | see below       |
+### VATGER
 
-### NAV Projects
+| Project | Status | Contact(s) | Looking for Developers |
+|:--------|:------:|:-----------|:----------------------:|
 
-| Projects         | Status | Person responsible | required Skills |
-|------------------|--------|--------------------|-----------------|
-| [vACDM][vacdm]   | OB     | Moritz F., Phil H. | see below       |
-| [vSID][vsid]     | CD     | Phil H.            | see below       |
-| [vTFDPS][vtfdps] | CD     | Leon K.            | see below       |
-| LoA Finder       | -      | Paul à B.          | C++             |
+### ATC Training Deparment
 
-| Projects     | Status   | Person responsible  | required Skills   |
-|--------------|----------|---------------------|-------------------|
-| Tourensystem | PL | Julian S., Fionn S. | Typescript, React |
+| Project               | Status | Contact(s) | Looking for Developers |
+|:----------------------|:------:|:-----------|:----------------------:|
+| ScenarioFileGenerator |   -    | LK, JS     |           ✅            |
+| EndorsementChecker    |   -    | LK         |           ✅            |
 
+### NAV 
 
-### Status codes:
+| Project          | Status | Contact(s) | Looking for Developers |
+|:-----------------|:------:|:-----------|:----------------------:|
+| [vACDM][VACDM]   |   OB   | MF, PH     |           ❌            |
+| [vSID][VSID]     |   CD   | PH         |           ❌            |
+| [vTFDPS][VTFDPS] |   CD   | LK         |           ✅            |
+| LoA Finder       |   -    | PAB        |           ✅            |
+
+### PR & Events
+
+| Project      | Status | Contact(s) | Looking for Developers |
+|:-------------|:------:|:-----------|:----------------------:|
+| Tourensystem |   PL   | JS, FS     |           ❌            |
+
+#### Users
+All the below users can also be contacted via the [VATSIM Germany Forum](https://board.vatsim-germany.org). 
+The provided contact methods below can be used in addition and are - if specified - to be the **preferred method of contact**. 
+
+```
+MF - Moritz F.      | example@mail.com
+PH - Phil H.        | User#1234 (Discord)
+LK - Leon K.        | -
+PAB - Paul a. B.    | -
+JS - Julian S.      | -
+FS - Fionn S.       | -
+```
+
+#### Status codes
 ```
 OB - Open Beta
 CD - Concept Development
 PL - Planning
 ```
 
-## Description of Projects
-
-#### ATD Projects
-
-<details>
-    <summary>ScenarioFileGenerator</summary>
-    Multiple people have developed different programs or script that make the creation of scenario files for Euroscope Simulator Session much easier and more automated.
-    The projects are written in C#, PHP, JS & HTML or Python.
-    The goal is to a create a) project which combines all of these projects and their individual benefits and b) create a project which is centrally accessible to all.
-    Current versions of the projects can already be configured for individual airports.
-    If interested feel free to contact Leon K.
-</details>
-<br>
-<details>
-    <summary>EndorsementChecker</summary>
-    A program (currently) built using C# and WPF to check hours spent on Vatsim positions and based on this data determine if a person adhers to a given endorsement policy.
-    Outputs this data as list in excel and in HTML code to allow editing and displaying of current endorsements.
-</details>
-
-#### NAV Projects
-
-<details>
-  <summary>vSID</summary>
-
-Euroscope Plugin for:
-Automatic assignment of SIDs based on given parameters, such as preferential runway, wake turbulence category [...].
-Automatic entry of initial climb and indication of climb via phraseology based on chosen SID.
-
-</details>
-<br>
-<details>
-  <summary>vTFDPS</summary>
-
-The aim of this project is to replicate a real Tower Flight Data Processing System and bring electronic flight strips to Vatsim.
-
-This project currently contains three components.
-The main application is built using Flutter.
-A backend server used to exchange data, which is not available in Euroscope and thereby can not be transferred via Euroscope.
-A Euroscope Plugin allows the data exchange between Euroscope and Flutter application or backend server.
-
-</details>
-<br>
-<details>
-  <summary>LoA Finder</summary>
-
-A Euroscope plugin which aims to provide better information about agreements. It is supposed to determine agreements based on live traffic and stations online, while also displaying the releases agreed between both sectors.
-
-</details>
-
-#### Event Projects
-
-[vsid]: https://git.vatsim-germany.org/vatger-projects/vsid
-[vacdm]: https://github.com/vACDM
-[vtfdps]: https://github.com/orgs/vtfdps/
+### Completed Projects
+| Project          | Contact(s) |
+|:-----------------|:-----------|
