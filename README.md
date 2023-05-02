@@ -46,26 +46,28 @@ as stated previously, always welcome!
 
 | Project      | Status | Contact(s) | Looking for Developers |
 |:-------------|:------:|:-----------|:----------------------:|
-| Tourensystem |   PL   | JS, FS     |           ❌            |
+| Tourensystem |   CD   | JS, FS     |           ❌            |
 
 #### Users
 All the below users can also be contacted via the [VATSIM Germany Forum](https://board.vatsim-germany.org). 
 The provided contact methods below can be used in addition and are - if specified - to be the **preferred method of contact**. 
 
 ```
-MF - Moritz F.      | example@mail.com
-PH - Phil H.        | User#1234 (Discord)
-LK - Leon K.        | -
+MF  - Moritz F.     | example@mail.com
+PH  - Phil H.       | User#1234 (Discord)
+LK  - Leon K.       | -
 PAB - Paul a. B.    | -
-JS - Julian S.      | -
-FS - Fionn S.       | -
+JS  - Julian S.     | -
+FS  - Fionn S.      | -
 ```
 
-#### Status codes
+#### Status Codes
 ```
-OB - Open Beta
-CD - Concept Development
-PL - Planning
+CD - Concept Development    | The project's core features are being planned
+AD - Active Development     | Features are being developed
+T  - Testing                | The application's features are being tested in a closed environment
+OB - Open Beta              | The application is available to everyone, however is still in development
+RR - Ready for Release      | The application's core features are finished. Waiting for deployment
 ```
 
 ### Completed Projects
