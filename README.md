@@ -26,7 +26,7 @@ as stated previously, always welcome!
 | Project | Status | Contact(s) | Looking for Developers |
 |:--------|:------:|:-----------|:----------------------:|
 
-### ATC Training Deparment
+### ATC Training Department
 
 | Project               | Status | Contact(s) | Looking for Developers |
 |:----------------------|:------:|:-----------|:----------------------:|
