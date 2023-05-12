@@ -8,7 +8,7 @@
 
 <!-- END LINKS -->
 
-# Projects Overview (WIP)
+# Project Overview (WIP)
 
 Clicking on the project name will guide you to the repository of the project.
 
@@ -57,7 +57,7 @@ All the below users can also be contacted via the [VATSIM Germany Forum](https:/
 The provided contact methods below can be used in addition and are - if specified - to be the **preferred method of contact**.
 
 ```
-NG  - Nikolas G.    | webmaster[at]vatger.de
+NG  - Nikolas G.    | git[at]vatger.de
 MF  - Moritz F.     | -
 PH  - Phil H.       | -
 LK  - Leon K.       | Leon#6135
