@@ -58,6 +58,7 @@ The provided contact methods below can be used in addition and are - if specifie
 
 ```
 NG  - Nikolas G.    | git[at]vatger.de
+PH  - Paul H.       | git[at]vatger.de
 MF  - Moritz F.     | -
 PH  - Phil H.       | -
 LK  - Leon K.       | Leon#6135
