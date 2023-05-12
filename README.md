@@ -28,6 +28,10 @@ as stated previously, always welcome!
 | Project                                         | Status | Contact(s) | Looking for Developers |
 | :---------------------------------------------- | :----: | :--------- | :--------------------: |
 | Trainingcenter [Frontend][TCF] / [Backend][TCB] |   AD   | NG         |           ✅           |
+| Homepage V4 (1)                                 |   AD   | PH         |           ✅ (Laravel) |
+
+(1) This project is intentially private, as it contains paid assets from a purchased theme. 
+If you wish to contribute, please contact the specified manager of the project to receive access. 
 
 ### ATC Training Department
 
