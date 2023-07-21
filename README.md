@@ -49,11 +49,12 @@ If you wish to contribute, please contact the specified manager of the project t
 | [vTFDPS][VTFDPS] |   CD   | LK         |           ✅           |
 | LoA Finder       |   -    | PAB        |           ✅           |
 
-### PR & Events
+### Event
 
 | Project      | Status | Contact(s) | Looking for Developers |
 | :----------- | :----: | :--------- | :--------------------: |
-| Tourensystem |   CD   | JS, FS     |           ❌           |
+| Tourensystem |   -    | JS, FS     |           ❌           |
+| Eventsystem  |   CD   | JS, FS     |           ❌           |
 
 #### Users
 
