@@ -29,6 +29,7 @@ as stated previously, always welcome!
 | :---------------------------------------------- | :----: | :--------- | :--------------------: |
 | Trainingcenter [Frontend][TCF] / [Backend][TCB] |   AD   | NG         |           ✅           |
 | Homepage V4 (1)                                 |   AD   | PH         |           ✅ (Laravel) |
+| Stats Zentrum mit API                           |   CD   | PH         |           ✅           |
 
 (1) This project is intentionally private, as it contains paid assets from a purchased theme. 
 If you wish to contribute, please contact the specified manager of the project to receive access. 
