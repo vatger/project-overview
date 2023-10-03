@@ -55,7 +55,7 @@ If you wish to contribute, please contact the specified manager of the project t
 | Project      | Status | Contact(s) | Looking for Developers |
 | :----------- | :----: | :--------- | :--------------------: |
 | Tourensystem |   -    | JS, FS     |           ❌           |
-| Eventsystem  |   CD   | JS, FS     |           ❌           |
+| Eventsystem  |   AD   | JS, FS     |           ❌           |
 
 #### Users
 
