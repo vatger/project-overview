@@ -2,9 +2,9 @@
 
 [VSID]: https://git.vatsim-germany.org/vatger-projects/vsid
 [VACDM]: https://github.com/vACDM
-[VTFDPS]: https://github.com/orgs/vtfdps/
 [TCF]: https://github.com/vatger/trainingcenter-frontend
 [TCB]: https://github.com/vatger/trainingcenter-backend
+[Airspace-Booking]: https://github.com/vatger/airspace-booking
 
 <!-- END LINKS -->
 
@@ -28,27 +28,25 @@ as stated previously, always welcome!
 | Project                                         | Status | Contact(s) | Looking for Developers |
 | :---------------------------------------------- | :----: | :--------- | :--------------------: |
 | Trainingcenter [Frontend][TCF] / [Backend][TCB] |   AD   | NG         |           ✅           |
-| Homepage V4 (1)                                 |   AD   | PH         |           ✅ (Laravel) |
+| Homepage V4 (1)                                 |   AD   | PH         |      ✅ (Laravel)      |
 | Stats Zentrum mit API                           |   CD   | PH         |           ✅           |
 
-(1) This project is intentionally private, as it contains paid assets from a purchased theme. 
-If you wish to contribute, please contact the specified manager of the project to receive access. 
+(1) This project is intentionally private, as it contains paid assets from a purchased theme.
+If you wish to contribute, please contact the specified manager of the project to receive access.
 
-### ATC Training Department
+<!-- ### ATC Training Department
 
 | Project               | Status | Contact(s) | Looking for Developers |
 | :-------------------- | :----: | :--------- | :--------------------: |
-| ScenarioFileGenerator |   -    | LK, JS     |           ✅           |
-| EndorsementChecker    |   -    | LK         |           ✅           |
+| ScenarioFileGenerator |   -    | LK, JS     |           ✅           | -->
 
 ### NAV
 
-| Project          | Status | Contact(s) | Looking for Developers |
-| :--------------- | :----: | :--------- | :--------------------: |
-| [vACDM][VACDM]   |   OB   | MF, PH     |           ❌           |
-| [vSID][VSID]     |   CD   | PH         |           ❌           |
-| [vTFDPS][VTFDPS] |   CD   | LK         |           ✅           |
-| LoA Finder       |   -    | PAB        |           ✅           |
+| Project                              | Status | Contact(s) | Looking for Developers |
+| :----------------------------------- | :----: | :--------- | :--------------------: |
+| [vACDM][VACDM]                       |   OB   | MF, LK     |           ✅           |
+| [Airspace Booking][Airspace-Booking] |   AD   | LK         |           ❌           |
+| [vSID][VSID]                         |   CD   | PH         |           ❌           |
 
 ### Event
 
@@ -65,10 +63,9 @@ The provided contact methods below can be used in addition and are - if specifie
 ```
 NG  - Nikolas G.    | git[at]vatger.de
 PH  - Paul H.       | git[at]vatger.de
-MF  - Moritz F.     | -
+MF  - Moritz F.     | nav[at]vatger.de
+LK  - Leon K.       | nav[at]vatger.de
 PH  - Phil H.       | -
-LK  - Leon K.       | Leon#6135
-PAB - Paul a. B.    | -
 JS  - Julian S.     | -
 FS  - Fionn S.      | -
 ```
@@ -85,5 +82,8 @@ RR - Ready for Release      | The application's features are finished. Waiting f
 
 ### Completed Projects
 
-| Project | Contact(s) |
-| :------ | :--------- |
+| Project           | Links                                                                                                |
+| :---------------- | :--------------------------------------------------------------------------------------------------- |
+| TS3-Bot           | [Repository](https://github.com/vatger/teamspeak-station-bot)                                        |
+| LoA Viewer        | [Repository](https://github.com/vatger/loa-viewer) [Website](https://loa.vatsim-germany.org)         |
+| Solo Endorsements | [Repository](https://github.com/vatger/solo-endorsements) [Website](https://solo.vatsim-germany.org) |
