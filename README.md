@@ -1,10 +1,10 @@
 <!-- START LINKS (these can be referenced in the document) -->
 
-[VSID]: https://git.vatsim-germany.org/vatger-projects/vsid
+[VSID]: https://github.com/vatger/vsid
 [VACDM]: https://github.com/vACDM
+[VTFDPS]: https://github.com/vtfdps
 [TCF]: https://github.com/vatger/trainingcenter-frontend
 [TCB]: https://github.com/vatger/trainingcenter-backend
-[Airspace-Booking]: https://github.com/vatger/airspace-booking
 [ATCISS]: https://github.com/vatger/atciss
 
 <!-- END LINKS -->
@@ -38,17 +38,16 @@ If you wish to contribute, please contact the specified manager of the project t
 <!-- ### ATC Training Department
 
 | Project               | Status | Contact(s) | Looking for Developers |
-| :-------------------- | :----: | :--------- | :--------------------: |
-| ScenarioFileGenerator |   -    | LK, JS     |           ✅           | -->
+| :-------------------- | :----: | :--------- | :--------------------: | -->
 
 ### NAV
 
-| Project                              | Status | Contact(s) | Looking for Developers |
-| :----------------------------------- | :----: | :--------- | :--------------------: |
-| [vACDM][VACDM]                       |   OB   | MF, LK     |           ✅           |
-| [Airspace Booking][Airspace-Booking] |   AD   | LK         |           ❌           |
-| [ATCISS][ATCISS]                     |   OB   | AL, RG, FP |           ✅           |
-| [vSID][VSID]                         |   CD   | PH         |           ❌           |
+| Project          | Status | Contact(s) | Looking for Developers |
+| :--------------- | :----: | :--------- | :--------------------: |
+| [vACDM][VACDM]   |   OB   | MF, LK     |           ✅           |
+| [vTFDPS][VTFDPS] |   AD   | LK, MF     |           ✅           |
+| [ATCISS][ATCISS] |   OB   | AL, RG, FP |           ✅           |
+| [vSID][VSID]     |   AD   | PH         |           ❌           |
 
 ### Event
 
