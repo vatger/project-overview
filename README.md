@@ -47,14 +47,12 @@ If you wish to contribute, please contact the specified manager of the project t
 | [vACDM][VACDM]   |   OB   | MF, LK     |           ✅           |
 | [vTFDPS][VTFDPS] |   AD   | LK, MF     |           ✅           |
 | [ATCISS][ATCISS] |   OB   | AL, RG, FP |           ✅           |
-| [vSID][VSID]     |   AD   | PH         |           ❌           |
+| [vSID][VSID]     |   AD   | PHA        |           ❌           |
 
-### Event
+<!-- ### Event
 
 | Project      | Status | Contact(s) | Looking for Developers |
-| :----------- | :----: | :--------- | :--------------------: |
-| Tourensystem |   -    | JS, FS     |           ❌           |
-| Eventsystem  |   AD   | JS, FS     |           ❌           |
+| :----------- | :----: | :--------- | :--------------------: | -->
 
 #### Users
 
@@ -66,7 +64,7 @@ NG  - Nikolas G.    | git[at]vatger.de
 PH  - Paul H.       | git[at]vatger.de
 MF  - Moritz F.     | nav[at]vatger.de
 LK  - Leon K.       | nav[at]vatger.de
-PH  - Phil H.       | -
+PHA  - Phil H.      | -
 JS  - Julian S.     | -
 FS  - Fionn S.      | -
 AL  - Alex L.       | -
