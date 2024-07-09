@@ -31,7 +31,7 @@ contributions that are made. Please note that this icon doesn't mean that there 
 | :------------------------- | :----: | :--------- | :--------------------: |
 | Homepage V4<sup>(1) </sup> |   R    | PH         |           ✅           |
 | [Discord-Bot][DiscordBot]  |   R    | MF         |           ✅           |
-| [Teamspeak-Bot][TsBot]     |   R    | NG         |           ✅           |
+| [Teamspeak-Bot][TsBot]     |   R    | NG         |           ❌           |
 | [Trainingcenter][TC]       |   AD   | NG, PH     |           ✅           |
 | Stats Zentrum mit API      |   CD   | PH         |           ✅           |
 
