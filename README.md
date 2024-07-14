@@ -8,6 +8,7 @@
 [LoginMonitor]: https://github.com/vatger/login-monitor
 [DiscordBot]: https://github.com/vatger/discord-bot
 [TsBot]: https://github.com/vatger/teamspeak-station-bot
+[stats]: https://github.com/vatger/stats
 
 <!-- END LINKS -->
 
@@ -33,7 +34,7 @@ contributions that are made. Please note that this icon doesn't mean that there 
 | [Discord-Bot][DiscordBot]  |   R    | MF         |           ✅           |
 | [Teamspeak-Bot][TsBot]     |   R    | NG         |           ❌           |
 | [Trainingcenter][TC]       |   AD   | NG, PH     |           ✅           |
-| Stats Zentrum mit API      |   CD   | PH         |           ✅           |
+| [Stats Zentrum][stats]      |   CD   | PH         |           ✅           |
 
 (1) This project is intentionally private, as it contains paid assets from a purchased theme.
 If you wish to contribute, please contact the specified manager of the project to receive access.
