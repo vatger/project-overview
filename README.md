@@ -2,13 +2,15 @@
 
 [VSID]: https://github.com/vatger/vsid
 [VTFDPS]: https://github.com/vtfdps
-[TC]: https://github.com/vatger/trainingcenter
+[TC]: https://github.com/vatger/training
 [ATCISS]: https://github.com/vatger/atciss
-[LoA-Viewer]: https://github.com/vatger/loa-viewer
 [LoginMonitor]: https://github.com/vatger/login-monitor
 [DiscordBot]: https://github.com/vatger/discord-bot
 [TsBot]: https://github.com/vatger/teamspeak-station-bot
 [stats]: https://github.com/vatger/stats
+[DfCache]: https://github.com/vatger/datafeed-cache
+[XFAuth]: https://github.com/vatger/xenforo-auth
+[S1Signup]: https://github.com/vatger/s1-signup
 
 <!-- END LINKS -->
 
@@ -33,8 +35,9 @@ contributions that are made. Please note that this icon doesn't mean that there 
 | Homepage V4<sup>(1) </sup> |   R    | PH         |           ✅           |
 | [Discord-Bot][DiscordBot]  |   R    | MF         |           ✅           |
 | [Teamspeak-Bot][TsBot]     |   R    | NG         |           ❌           |
-| [Trainingcenter][TC]       |   AD   | NG, PH     |           ✅           |
-| [Stats Zentrum][stats]      |   CD   | PH         |           ✅           |
+| [Datafeed-Cache][DfCache]  |   R    | NG         |           ❌           |
+| [Xenforo-Auth][XFAuth]     |   R    | NG         |           ❌           |
+| [Stats Zentrum][stats]     |   --   | TBD        |           ❌           |
 
 (1) This project is intentionally private, as it contains paid assets from a purchased theme.
 If you wish to contribute, please contact the specified manager of the project to receive access.
@@ -44,16 +47,17 @@ This project is written in Laravel.
 
 | Project                       | Status | Contact(s) | Looking for Developers |
 | :---------------------------- | :----: | :--------- | :--------------------: |
-| [Login Monitor][LoginMonitor] |   OB   | FS         |           ❌           |
+| [Login Monitor][LoginMonitor] |   R    | FS         |           ❌           |
+| [Training][TC]                |   OB   | FS         |           ❌           |
+| [S1 Signup][S1Signup]         |   R    | FS         |           ❌           |
 
 ### NAV
 
-| Project                     | Status | Contact(s) | Looking for Developers |
-| :-------------------------- | :----: | :--------- | :--------------------: |
-| [LoA Viewer V2][LoA-Viewer] |   AD   | LK, MF     |           ✅           |
-| [vTFDPS][VTFDPS]            |   AD   | LK, MF     |           ✅           |
-| [ATCISS][ATCISS]            |   OB   | AL, RG, FP |           ✅           |
-| [vSID][VSID]                |   AD   | PHA        |           ❌           |
+| Project          | Status | Contact(s) | Looking for Developers |
+| :--------------- | :----: | :--------- | :--------------------: |
+| [vTFDPS][VTFDPS] |   AD   | LK, MF     |           ✅           |
+| [ATCISS][ATCISS] |   OB   | AL, RG, FP |           ✅           |
+| [vSID][VSID]     |   AD   | PHA        |           ❌           |
 
 <!-- ### Event
 
