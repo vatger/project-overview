@@ -39,10 +39,10 @@ contributions that are made. Please note that this icon doesn't mean that there 
 | [Teamspeak-Bot][TsBot]       |   R    | NG         |           ❌           |
 | [Datafeed-Cache][DfCache]    |   R    | NG         |           ❌           |
 | [Xenforo-Auth][XFAuth]       |   R    | NG         |           ❌           |
-| [Stats Zentrum][stats]       |   --   | TBD        |           ❌           |
-| [atc-booking][AtcBooking]    |   R    | PH         |           ❌           |
-| [osticket-api][osticket-api] |   R    | PH         |           ❌           |
-| [rotban][rotban]             |   R    | PH         |           ❌           |
+| [Stats-Zentrum][stats]       |   --   | TBD        |           ❌           |
+| [ATC-Booking][AtcBooking]    |   R    | PH         |           ❌           |
+| [Osticket-Api][osticket-api] |   R    | PH         |           ❌           |
+| [Rotban][rotban]             |   R    | PH         |           ❌           |
 
 <sup>(1) </sup> This project is intentionally private, as it contains paid assets from a purchased theme.
 If you wish to contribute, please contact the specified manager of the project to receive access.
@@ -52,9 +52,9 @@ This project is written in Laravel.
 
 | Project                       | Status | Contact(s) | Looking for Developers |
 | :---------------------------- | :----: | :--------- | :--------------------: |
-| [Login Monitor][LoginMonitor] |   R    | FS         |           ❌           |
+| [Login-Monitor][LoginMonitor] |   R    | FS         |           ❌           |
 | [Training][TC]                |   OB   | FS         |           ❌           |
-| [S1 Signup][S1Signup]         |   R    | FS         |           ❌           |
+| [S1-Signup][S1Signup]         |   R    | FS         |           ❌           |
 
 ### NAV
 
