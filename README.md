@@ -1,6 +1,5 @@
 <!-- START LINKS (these can be referenced in the document) -->
 
-[VSID]: https://github.com/vatger/vsid
 [VTFDPS]: https://github.com/vtfdps
 [TC]: https://github.com/vatger/training
 [ATCISS]: https://github.com/vatger/atciss
@@ -63,7 +62,6 @@ This project is written in Laravel.
 | :--------------- | :----: | :--------- | :--------------------: |
 | [vTFDPS][VTFDPS] |   AD   | LK, MF     |           ✅           |
 | [ATCISS][ATCISS] |   OB   | AL, RG, FP |           ✅           |
-| [vSID][VSID]     |   AD   | PHA        |           ❌           |
 
 <!-- ### Event
 
@@ -81,7 +79,6 @@ PH  - Paul H.       | git[at]vatger.de
 MF  - Moritz F.     | nav[at]vatger.de
 LK  - Leon K.       | nav[at]vatger.de
 FS - Felix S.       | atd[at]vatger.de
-PHA  - Phil H.      | -
 AL  - Alex L.       | -
 RG  - Robin G.      | vatsim[at]glob.in
 FP  - Franz P.      | fpletz[at]fnordicwalking.de
