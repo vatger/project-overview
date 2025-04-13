@@ -44,7 +44,7 @@ contributions that are made. Please note that this icon doesn't mean that there 
 | [osticket-api][osticket-api] |   R    | PH         |           ❌           |
 | [rotban][rotban]             |   R    | PH         |           ❌           |
 
-(1) This project is intentionally private, as it contains paid assets from a purchased theme.
+<sup>(1) </sup> This project is intentionally private, as it contains paid assets from a purchased theme.
 If you wish to contribute, please contact the specified manager of the project to receive access.
 This project is written in Laravel.
 
