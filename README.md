@@ -11,6 +11,9 @@
 [DfCache]: https://github.com/vatger/datafeed-cache
 [XFAuth]: https://github.com/vatger/xenforo-auth
 [S1Signup]: https://github.com/vatger/s1-signup
+[AtcBooking]: https://github.com/vatger/atc-booking
+[osticket-api]: https://github.com/vatger/osticket_api
+[rotban]: https://github.com/vatger/rotban
 
 <!-- END LINKS -->
 
@@ -30,14 +33,17 @@ contributions that are made. Please note that this icon doesn't mean that there 
 
 ### VATGER
 
-| Project                    | Status | Contact(s) | Looking for Developers |
-| :------------------------- | :----: | :--------- | :--------------------: |
-| Homepage V4<sup>(1) </sup> |   R    | PH         |           ✅           |
-| [Discord-Bot][DiscordBot]  |   R    | MF         |           ✅           |
-| [Teamspeak-Bot][TsBot]     |   R    | NG         |           ❌           |
-| [Datafeed-Cache][DfCache]  |   R    | NG         |           ❌           |
-| [Xenforo-Auth][XFAuth]     |   R    | NG         |           ❌           |
-| [Stats Zentrum][stats]     |   --   | TBD        |           ❌           |
+| Project                      | Status | Contact(s) | Looking for Developers |
+| :--------------------------- | :----: | :--------- | :--------------------: |
+| Homepage V4<sup>(1) </sup>   |   R    | PH         |           ✅           |
+| [Discord-Bot][DiscordBot]    |   R    | MF         |           ✅           |
+| [Teamspeak-Bot][TsBot]       |   R    | NG         |           ❌           |
+| [Datafeed-Cache][DfCache]    |   R    | NG         |           ❌           |
+| [Xenforo-Auth][XFAuth]       |   R    | NG         |           ❌           |
+| [Stats Zentrum][stats]       |   --   | TBD        |           ❌           |
+| [atc-booking][AtcBooking]    |   R    | PH         |           ❌           |
+| [osticket-api][osticket-api] |   R    | PH         |           ❌           |
+| [rotban][rotban]             |   R    | PH         |           ❌           |
 
 (1) This project is intentionally private, as it contains paid assets from a purchased theme.
 If you wish to contribute, please contact the specified manager of the project to receive access.
