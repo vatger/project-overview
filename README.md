@@ -90,6 +90,6 @@ FP  - Franz P.      | fpletz[at]fnordicwalking.de
 CD - Concept Development    | The project's core features are being planned
 AD - Active Development     | Features are being developed
 T  - Testing                | The application's features are being tested in a closed environment
-OB - Open Beta              | The application is available to everyone, however is still in development
-R  - Released               | The application is available to everyone, it is being maintained and if required new features are added
+OB - Open Beta              | The application is released, however is still in development
+R  - Released               | The application is released, it is being maintained and if required new features are added
 ```
